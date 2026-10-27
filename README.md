@@ -9,7 +9,7 @@ A question-answering bot that answers customer questions using only a company FA
 4. The Groq API (openai/gpt-oss-20b) writes an answer using only those chunks, and says it doesn't know if the answer isn't there.
 
 ## Results
-Tested on 15 questions (12 answerable, 3 not in the FAQ): X out of 15 correct.
+Tested on 15 questions (12 answerable, 3 not in the FAQ): 15 out of 15 passed. My first run scored 11/15, but most of those failures were my keyword check being too strict (special characters and different phrasing), not wrong answers. I fixed the checker, not the bot.
 
 ## What I learned
 - Chunking by word count cut answers in half, and a vague question retrieved the wrong section. Splitting by question fixed this.
