@@ -1,0 +1,28 @@
+Brightwave Internet Services FAQ
+
+What are your support hours?
+Our support team is available Monday to Saturday, 8 AM to 8 PM Philippine time. Support is closed on Sundays and on national holidays.
+
+How do I reset my WiFi router?
+Hold the reset button on the back of the router for 10 seconds until the lights blink. Wait three minutes for the router to restart. You will need to set up your WiFi name and password again after a reset.
+
+How much does the Basic plan cost?
+The Basic plan costs 999 pesos per month and includes speeds of up to 50 Mbps. There is no installation fee for the Basic plan.
+
+How much does the Premium plan cost?
+The Premium plan costs 1,799 pesos per month and includes speeds of up to 200 Mbps. It also includes a free mesh WiFi extender for homes with more than one floor.
+
+How do I pay my bill?
+You can pay through the Brightwave mobile app, at partner convenience stores, or by bank transfer. Payments made through the app are posted within one hour. Store and bank payments can take up to two business days.
+
+What happens if I pay my bill late?
+A late fee of 100 pesos is added if your payment is more than 5 days past the due date. Your service may be suspended if the bill is more than 15 days overdue. Service is restored within 24 hours after payment is received.
+
+How do I report an outage?
+Check the service status page in the mobile app first. If no outage is listed for your area, call support or send a message through the app. A technician visit is scheduled within 48 hours if the problem cannot be fixed remotely.
+
+Can I cancel my plan?
+Yes. Cancellation requests must be submitted at least 30 days before your billing date. A termination fee of 2,000 pesos applies if you cancel within the first 12 months of your contract. You must return the modem and router in good condition.
+
+Can I upgrade my plan?
+You can upgrade from Basic to Premium at any time through the app. The new speed starts the next day, and the new price applies from your next billing cycle.
